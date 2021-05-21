@@ -1,0 +1,9 @@
+PyMySQL
+Flask
+flask-restful
+requests
+pytz
+flask-cors
+pyjwt
+sqlalchemy
+holidays

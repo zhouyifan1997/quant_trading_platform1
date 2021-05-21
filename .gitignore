@@ -1,0 +1,4 @@
+dist/
+swing_trade_proto/
+**_pycache__**
+.vscode/
